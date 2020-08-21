@@ -235,7 +235,7 @@
     "preact": "^10.0.0",
     "preact-compat": "^3.18.5",
     "prettier": "^2.0.1",
-    "pretty-quick": "^2.0.0",
+    "pretty-quick": "^3.0.0",
     "querystring": "^0.2.0",
     "rc-footer": "^0.6.3",
     "rc-queue-anim": "^1.6.12",
